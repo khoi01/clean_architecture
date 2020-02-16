@@ -1,0 +1,2 @@
+Video:Flutter TDD Clean Architecture Course [2] – Entities & Use Cases
+minute: 20.06
